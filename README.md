@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/756901116.svg)](https://zenodo.org/doi/10.5281/zenodo.10665408)
+
 # Public Transport Structure Analysis
 
 This repository contains the Python code for analysis of structural properties of public transport routes across the globe.
